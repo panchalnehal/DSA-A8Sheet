@@ -16,3 +16,4 @@ public class InvertedRightTrianglePattern {
         sc.close();
     }
 }
+
